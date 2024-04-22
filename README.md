@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Dohyun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
 <br>
-[![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlaehgus&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/dlaehgus/github-readme-stats)
-    
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
